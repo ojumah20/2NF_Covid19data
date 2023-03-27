@@ -1,2 +1,4 @@
-# ETL_From_Ecommerce_Site
-Scrapping data from ecommerce sites and storing the data in postgresql
+# Extracting Covid19 Tables
+applying 2NF (Second Normal Form) on Covid19 tables involves identifying and 
+separating the data into multiple tables to avoid data duplication 
+and improve data consistency; Creating primary keys, and applying other data modeling concepts 
